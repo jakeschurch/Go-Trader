@@ -1,0 +1,3 @@
+[submodule "Go-Security"]
+	path = Go-Security
+	url = ./src/Go-Security/
