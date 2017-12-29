@@ -19,6 +19,7 @@ All materials will be hosted on the student's [Github](www.github.com) repo - al
 ### Algorithmic Trading System Module Deliverables
 ---
 _(Broken up by module)_
+
 0. Backtesting Environment Module
         - Be able to load a portfolio into backtest environment
         - Implement backtest environment using Monte Carlo Simulation
