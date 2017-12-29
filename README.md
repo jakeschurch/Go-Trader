@@ -1,5 +1,5 @@
 # Special Topics in Go for Finance
-###### Last Updated: 12/14/2017
+###### Last Updated: 12/28/2017
 
 ## Introduction
 ---
@@ -21,10 +21,10 @@ All materials will be hosted on the student's [Github](www.github.com) repo - al
 _(Broken up by module)_
 
 0. Backtesting Environment Module
-        - Be able to load a portfolio into backtest environment
-        - Implement backtest environment using Monte Carlo Simulation
-        - Be able to create market simulation scenarios, as well as specialized scenarios such as a downturn
-        - Measure performance of a portfolio on a security level within  market simulation
+    - Be able to load a portfolio into backtest environment
+    - Implement backtest environment using Monte Carlo Simulation
+    - Be able to create market simulation scenarios, as well as specialized scenarios such as a downturn
+    - Measure performance of a portfolio on a security level within  market simulation
 2. Research System Modules
     - Be able to screen for securities based on security parameters
 3. Portfolio Construction Module
@@ -72,3 +72,4 @@ The student will be graded on each deliverable due to overall effort, timeliness
 | Module 5    | 5% |
 
 [TOP](#Special-Topics-in-Go-for-Finance)
+###### _written in boostnote editor_
